@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<targetDefinitions xmlns="http://openstm32.org/stm32TargetDefinitions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openstm32.org/stm32TargetDefinitions stm32TargetDefinitions.xsd">
+  <board id="arm_robot_f427_v3.0">
+    <name>arm_robot_f427_v3.0</name>
+    <mcuId>STM32F427VITx</mcuId>  <!-- mcu-->
+    <dbgIF>SWD</dbgIF>
+    <dbgDEV>ST-LinkV2-1</dbgDEV>
+  </board>
+</targetDefinitions>
